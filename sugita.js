@@ -1,5 +1,6 @@
 $(function(){
 
+
 	var Human = function(){
 		//引数の取得
 		// alert(arguments[0]);
